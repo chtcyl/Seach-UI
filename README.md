@@ -1,2 +1,2 @@
-# Seach-UI
-Seach UI
+# Search-UI
+Search UI
